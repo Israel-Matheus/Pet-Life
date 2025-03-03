@@ -1,4 +1,5 @@
 # 🐾 PetLife
+
 ###🌟 Garanta uma vida longa e cheia de alegria para o seu melhor amigo!
 
 O PetLife é um site fictício que apresenta uma clínica veterinária, petshop e farmácia. Ele foi desenvolvido com HTML, CSS e JavaScript para oferecer uma experiência interativa e moderna para os usuários.
