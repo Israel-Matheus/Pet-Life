@@ -20,7 +20,11 @@ O PetLife é um site fictício que apresenta uma clínica veterinária, petshop 
 
 ### 📷 Captura de tela
 
-![PetLife - Homepage](imgs/clinica.jpg)
+![PetLife - Início](imgs/inicio.jpg)
+![PetLife - Clínica](imgs/clinica.jpg)
+![PetLife - Farmácia](imgs/farmacia.jpg)
+![PetLife - Dúvidas](imgs/duvidas.jpg)
+
 
 ### 🛠 Como executar o projeto
 
