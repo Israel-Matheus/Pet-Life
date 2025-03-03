@@ -26,11 +26,11 @@ O PetLife é um site fictício que apresenta uma clínica veterinária, petshop 
 
 1️⃣ Clone este repositório:
 
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/seu-usuario/Pet-Life.git
 
 2️⃣ Acesse a pasta do projeto:
 
-cd nome-do-repositorio
+cd Pet-Life
 
 3️⃣ Abra o arquivo index.html em qualquer navegador.
 
