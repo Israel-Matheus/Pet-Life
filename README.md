@@ -58,9 +58,7 @@ PetLife is a fictional website that showcases a veterinary clinic, pet shop, and
 🚀 Technologies Used
 
     HTML5 → Website structure
-
     CSS3 → Styling and responsive design
-
     JavaScript → Interactivity in the FAQ section
 
 🎯 Features
@@ -73,11 +71,8 @@ PetLife is a fictional website that showcases a veterinary clinic, pet shop, and
 📷 Screenshots
 
     PetLife - Home
-
     PetLife - Clinic
-
     PetLife - Pharmacy
-
     PetLife - FAQ
 
 🛠 How to Run the Project
