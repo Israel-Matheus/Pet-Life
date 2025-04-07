@@ -51,6 +51,7 @@ Este projeto foi desenvolvido para fins educacionais e não possui fins comercia
 Página web desenvolvida para a trilha Start na Programação da OneBitCode.
 
 ---
+---
 
 ## 🌐 English (EN)
 🌟 Ensure a long and joyful life for your best friend!
