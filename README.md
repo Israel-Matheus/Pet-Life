@@ -47,7 +47,7 @@ cd Pet-Life
 
 ### 📜 Licença
 
-Este projeto foi desenvolvido para fins educacionais e não possui fins comerciais.
+Este projeto foi desenvolvido para fins educacionais e não possui fins comerciais.  
 Página web desenvolvida para a trilha Start na Programação da OneBitCode.
 
 ---
