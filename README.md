@@ -1,6 +1,6 @@
 # 🐾 PetLife
 
-## (PT-BR)
+## 🇧🇷 Português (PT-BR)
 🌟 Garanta uma vida longa e cheia de alegria para o seu melhor amigo!
 
 O PetLife é um site fictício que apresenta uma clínica veterinária, petshop e farmácia. Ele foi desenvolvido com HTML, CSS e JavaScript para oferecer uma experiência interativa e moderna para os usuários.
@@ -52,7 +52,7 @@ Página web desenvolvida para a trilha Start na Programação da OneBitCode.
 
 ---
 
-## (EN)
+## 🌐 English (EN)
 🌟 Ensure a long and joyful life for your best friend!
 
 PetLife is a fictional website that showcases a veterinary clinic, pet shop, and pharmacy. It was built using HTML, CSS, and JavaScript to deliver a modern and interactive experience for users.
