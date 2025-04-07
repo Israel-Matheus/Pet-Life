@@ -69,7 +69,6 @@ PetLife is a fictional website that showcases a veterinary clinic, pet shop, and
 ✔️ Information about the pet shop and pharmacy
 ✔️ Interactive FAQ to answer common customer questions
 ✔️ Modern and user-friendly design
-📷 Screenshots
 
     PetLife - Home
     PetLife - Clinic
